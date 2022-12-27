@@ -1,6 +1,6 @@
 ---
 tomcat_home_dir: /opt/tomcat
-tomcat_user: tomcat
+tomcat_user: tomcat1
 tomcat_default_shell: /bin/false
 tomcat_download_url: https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.65/bin/apache-tomcat-9.0.65.tar.gz
 tomcat_download_location: /tmp/apache-tomcat-9.0.65.tar.gz
